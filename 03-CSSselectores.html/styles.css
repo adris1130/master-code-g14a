@@ -1,3 +1,11 @@
-body [::background-color::backdrop
-link rel="stylesheet"
-]
+body{
+    background-color: beige;
+}
+
+#p1{
+    color: cadetblue;
+}
+
+.colorletra {
+    color: cornflowerblue;
+}
